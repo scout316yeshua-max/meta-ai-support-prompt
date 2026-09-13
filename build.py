@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+#!/usr/bin/env python3
 """Build a single-page HTML site from README.md for the awesome-python website."""
 
 import json
